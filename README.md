@@ -1,5 +1,9 @@
 ### Hi there 👋
+<div align="center" width="50">
 
+<img src="https://github.com/albertojimpala/albertojimpala/blob/main/header.png" href="https://github.com/albertojimpala" alt="Hello Coders" width="70%"/> <br>
+
+</div>
 <!--
 **albertojimpala/albertojimpala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
