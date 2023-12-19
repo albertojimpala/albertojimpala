@@ -4,7 +4,6 @@
 <img src="https://github.com/albertojimpala/albertojimpala/blob/main/header.png" href="https://github.com/albertojimpala" alt="Hello Coders" width="70%"/> <br>
 
 
-<iframe src="https://giphy.com/embed/hX0NsvgC2ESspzUFnp" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/acorn-tv-wow-acorn-tv-king-george-hX0NsvgC2ESspzUFnp">via GIPHY</a></p>
 
 </div>
 
