@@ -1,5 +1,4 @@
 <div align="center" width="50">
-<h1 align="center">Hi 👋, I'm Alberto</h1>
 <h3 align="center">A passionate frontend and backend developer from Mexico</h3>
 <img src="https://github.com/albertojimpala/albertojimpala/blob/main/header.png" href="https://github.com/albertojimpala" alt="Hello Coders" width="70%"/> <br>
 
